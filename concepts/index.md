@@ -31,8 +31,8 @@ When you configure your system, you do not necessarily have to use every capabil
 You can find out what Channels are available for a Thing by looking at the documentation of the Thing's Binding.
 
 **Bindings** can be thought of as software adapters, making Things available to your home automation system.
-They are add-ons that provide a way to link Items to physical devices.
-They also abstract away the specific communications requirements of that device so that it may be treated more generically by the framework.
+They are add-ons that provide a way to link Items to Things.
+They also abstract away the specific communications requirements of that Thing so that it may be treated more generically by the framework.
 
 **Items** represent capabilities that can be used by applications, either in user interfaces or in automation logic.
 Items have a **State** and they may receive commands.
