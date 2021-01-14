@@ -22,8 +22,8 @@ It is a bit of an over-simplification, but you can think of the physical view as
 ## Things, Channels, Bindings, Items and Links
 
 **Things** are entities that can be physically added to a system.
-Things may provide more than one function (for example, a Z-Wave multi-sensor may provide a motion detector and also measure room temperature).
-Things do not have to be physical devices; they can also represent a web service or any other manageable source of information and functionality.
+Things may have capabilities (for example, a Z-Wave multi-sensor may have the capability to a motion detector and also to measure room temperature).
+Things do not have to be physical devices; they can also represent a web service or any other manageable source of information and capabilities.
 
 Things expose their capabilities through **Channels**.
 Whether an installation takes advantage of a particular capability reflected by a Channel depends on whether it has been configured to do so.
