@@ -26,7 +26,7 @@ Things may provide more than one function (for example, a Z-Wave multi-sensor ma
 Things do not have to be physical devices; they can also represent a web service or any other manageable source of information and functionality.
 
 Things expose their capabilities through **Channels**.
-Whether an installation takes advantage of a particular capability reflected by a Channel depends on whether it has been configured to do so.
+Whether a system takes advantage of a particular capability reflected by a Channel depends on whether it has been configured to do so.
 When you configure your system, you do not necessarily have to use every capability offered by a Thing.
 You can find out what Channels are available for a Thing by looking at the documentation of the Thing's Binding.
 
